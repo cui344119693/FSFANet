@@ -1,2 +1,15 @@
 # FSFANet
-**The code will be released in this repository.**
+## 🚀 Project Release Status
+**Last Updated:** `June 23, 2025`
+
+### 📦 Model Files
+<div align="center">
+
+| Component      | Status         | Release Date |
+|----------------|----------------|--------------|
+| Model Files    | ✅ Released    | 2025-06-23   |
+
+</div>
+
+### 🛠 Training Scripts
+> 🔧 **Current Status**: Under organization, coming soon!  

@@ -11,5 +11,3 @@
 
 </div>
 
-### 🛠 Training Scripts
-> 🔧 **Current Status**: Under organization, coming soon!  
